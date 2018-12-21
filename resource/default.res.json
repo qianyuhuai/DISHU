@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,back_loading_png,back_s_banner_png,grass_lower_png,grass_upper_png,mole_1_png,mole_thump4_png,1_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "back_loading_png",
+			"type": "image",
+			"url": "assets/back_loading.png"
+		},
+		{
+			"name": "back_s_banner_png",
+			"type": "image",
+			"url": "assets/back_s_banner.png"
+		},
+		{
+			"name": "grass_lower_png",
+			"type": "image",
+			"url": "assets/grass_lower.png"
+		},
+		{
+			"name": "grass_upper_png",
+			"type": "image",
+			"url": "assets/grass_upper.png"
+		},
+		{
+			"name": "mole_1_png",
+			"type": "image",
+			"url": "assets/mole_1.png"
+		},
+		{
+			"name": "mole_thump4_png",
+			"type": "image",
+			"url": "assets/mole_thump4.png"
+		},
+		{
+			"name": "1_jpg",
+			"type": "image",
+			"url": "assets/1.jpg"
+		}
+	]
+}
